@@ -36,7 +36,7 @@ Recommendations:
 - Be creative.
 
 ### Deliverables
-You will need to deliver the URL of your Medium article via Slack to your lead teacher or TAs. 
+You will need to deliver the URL of your Medium article to this [Trello Board](https://trello.com/b/Hje4cBjk/links) as a card with your name. 
 
 ### Examples
 * [I was looking for a house, so I built a web scraper in Python!](https://towardsdatascience.com/looking-for-a-house-build-a-web-scraper-to-help-you-5ab25badc83e)
